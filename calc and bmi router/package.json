@@ -1,0 +1,14 @@
+{
+  "name": "calcbmi",
+  "version": "1.0.0",
+  "description": "it is a program to add subtract multiply and delete numbers and calculate bmi of person and find whether he is fit or not",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
